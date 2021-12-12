@@ -5,7 +5,5 @@ git add
 git commit -m "first commit" 
 git status
 git log
-git branch -M main 
+git push origin master
 
-
- git push -u origin main
